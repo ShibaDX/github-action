@@ -1,1 +1,4 @@
 <h1>SPORT CLUB CORINTHIANS PAULISTA 1910</h1>
+## Changelog
+- 2025-10-14 19:25 - sccp
+
